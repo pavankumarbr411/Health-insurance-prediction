@@ -4,7 +4,7 @@ This project predicts the **health insurance charges** a person might have to pa
 
 ---
 
-## 📌 Objective
+##  Objective
 
 To build a machine learning model that can predict **insurance charges** based on features such as:
 - Age
