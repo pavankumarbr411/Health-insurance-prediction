@@ -97,7 +97,7 @@ Example:
 
 **Predicted Premium: ₹ 7,895.32**
 The dataset is a commonly used medical cost dataset containing fictional insurance data:
-- Columns: `age`, `sex`, `bmi`, `children`, `smoker`, `region`, `charges`
+- Columns: `age`, `gender`, `bmi`, `children`, `smoker`, `region`, `charges`
 
 You can find it in:  
 `insurance.csv`
