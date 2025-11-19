@@ -1,5 +1,7 @@
 from google.colab import drive
 drive.mount('/content/drive')
+!ls "/content/drive/MyDrive"
+
 
 !pip install -q gradio xgboost scikit-learn pandas
 
